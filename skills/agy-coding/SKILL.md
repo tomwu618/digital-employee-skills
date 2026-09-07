@@ -1,6 +1,6 @@
 ---
 name: agy-coding
-description: Drive Google Antigravity CLI (agy) to edit a repo: pick the model, write the task, check the envelope, run verification, read the diff, loop, and commit.
+description: "Drive Google Antigravity CLI (agy) to edit a repo. Pick the model, write the task, check the envelope, run verification, read the diff, loop, and commit."
 ---
 
 # agy 上手指南（给数字员工）
